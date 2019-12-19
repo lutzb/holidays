@@ -1,6 +1,6 @@
 # Holidays ascii art for bash
 
-These scripts will output art for each holiday(eventually) in your terminal window every time it loads.
+These scripts will output art for each holiday(eventually) in your terminal window every time it loads.  Currently, it will switch art based on system date month.  More art to be added for future momnths.
 
 To use, clone the repo somewhere, add `{location of directory}/holidays/holiday.sh` to the top of your `.bashrc`.
 
