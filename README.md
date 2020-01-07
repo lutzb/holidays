@@ -14,3 +14,5 @@ alias spooky='~/holidays/spooky.sh'
 alias gobble='~/holidays/gobble.sh'
 alias jingle='~/holidays/jingle.sh'
 ```
+
+See `/samples` for sample images.
