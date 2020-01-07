@@ -2,6 +2,9 @@
 currentMonth=`date +"%m"`
 
 case "${currentMonth}" in
+01)
+~/holidays/dream.sh
+;;
 10)
 ~/holidays/spooky.sh
 ;;
