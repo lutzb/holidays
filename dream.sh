@@ -8,7 +8,7 @@ echo -e "${orange}       / _/'\"\     ${white}   ___     _   _     _    __     _
 echo -e "${orange}       (c   '\'     ${white} |_ _|   | | | |   / \   \ \   / / | ____| "
 echo -e "${orange}        \    =      ${white}  | |    | |_| |  / _ \   \ \ / /  |  _| "
 echo -e "${orange}        _) --'      ${white}  | |    |  _  | / ___ \   \ V /   | |___ "
-echo -e "${orange}     .-' <\ />-.    ${white} |___|   |_| |_|/_/   \_\   \_/    |_____| "
+echo -e "${orange}     .-'  \ / -.    ${white} |___|   |_| |_|/_/   \_\   \_/    |_____| "
 echo -e "${orange}    /     |x|    \ "
 echo -e "${orange}   / /|   |x|  |\ \  ${white}     _        ____   ____   _____     _     __  __ "
 echo -e "${orange} ___________________ ${white}    / \      |  _ \ |  _ \ | ____|   / \   |  \/  | "
