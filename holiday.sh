@@ -5,6 +5,9 @@ case "${currentMonth}" in
 01)
 ~/holidays/art/dream.sh
 ;;
+02)
+~/holidays/art/varmit.sh
+;;
 10)
 ~/holidays/art/spooky.sh
 ;;
