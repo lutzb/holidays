@@ -3,19 +3,19 @@ currentMonth=`date +"%m"`
 
 case "${currentMonth}" in
 01)
-~/holidays/art/dream.sh
+./art/dream.sh
 ;;
 02)
-~/holidays/art/varmit.sh
+./art/varmit.sh
 ;;
 10)
-~/holidays/art/spooky.sh
+./art/spooky.sh
 ;;
 11)
-~/holidays/art/gobble.sh
+./art/gobble.sh
 ;;
 12)
-~/holidays/art/jingle.sh
+./art/jingle.sh
 ;;
 *)
 echo "THERE ARE NO HOLIDAYS THIS MONTH"
