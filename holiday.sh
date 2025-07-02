@@ -1,24 +1,25 @@
 # Get current system date
 currentMonth=`date +"%m"`
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 case "${currentMonth}" in
 01)
-~/dev/holidays/art/dream.sh
+"${SCRIPT_DIR}/art/dream.sh"
 ;;
 02)
-~/dev/holidays/art/varmit.sh
+"${SCRIPT_DIR}/art/varmit.sh"
 ;;
 07)
-~/dev/holidays/art/freedom.sh
+"${SCRIPT_DIR}/art/freedom.sh"
 ;;
 10)
-~/dev/holidays/art/spooky.sh
+"${SCRIPT_DIR}/art/spooky.sh"
 ;;
 11)
-~/dev/holidays/art/gobble.sh
+"${SCRIPT_DIR}/art/gobble.sh"
 ;;
 12)
-~/dev/holidays/art/jingle.sh
+"${SCRIPT_DIR}/art/jingle.sh"
 ;;
 *)
 echo "THERE ARE NO HOLIDAYS THIS MONTH"
